@@ -2,7 +2,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
--- Compiled by: Aivaras Kurkauskas
+-- Compiled by: Aivaras Kurkauskas.
 
 -- the entity
 entity xor is
